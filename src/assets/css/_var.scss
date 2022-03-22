@@ -1,0 +1,17 @@
+$header-color: red;
+$custom-blue:#3568F0;
+$arrow-blue:#4167E4;
+$bg-gray:#EEF0F6;
+$color-paragraph:#7C8498;
+$color-names:#3D465B;
+$color-inactive:#ACBADC;
+
+/*breakpoint*/
+$breakpoints: (
+  'xs': "(min-width: 0px) and (max-width: 767px)",
+  'sm': "(min-width: 768px) and (max-width: 991px)",
+  'md': "(min-width: 992px) and (max-width: 1199px)",
+  'lg': "(min-width: 1200px) and (max-width: 1600px)",
+  'xl': "(min-width: 1601px) and (max-width: 2048px)",
+  'md2': "(min-width: 600px) and (max-width: 745px)",
+) !default;
