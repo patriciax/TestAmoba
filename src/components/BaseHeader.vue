@@ -3,7 +3,6 @@
     <header class="header">
       <div class="header__item">
         <div class="header__bars"></div>
-
         <img
           class="header__logo"
           src="../assets/img/logo_amoba.svg"
@@ -11,7 +10,7 @@
         />
       </div>
       <div class="header__item">
-        <p>Dr. Juan Sarmiento Test</p>
+        <p>Dr. Juan Sarmiento</p>
         <img
           class="header__icon"
           src="../assets/img/icon_engranaje.svg"
@@ -23,8 +22,6 @@
           alt="image user"
         />
       </div>
-
-
     </header>
     <!---------nav--------->
     <nav class="nav">
